@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.4.4)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - Realm (10.7.4):
+    - Realm/Headers (= 10.7.4)
+  - Realm/Headers (10.7.4)
+  - RealmSwift (10.7.4):
+    - Realm (= 10.7.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - PromiseKit (~> 6.13.1)
+  - RealmSwift (= 10.7.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PromiseKit
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  Realm: f08ce1a85649a41303ecfe1cbd914c62e9e6d710
+  RealmSwift: 60ec49d165f23d040ab48811d8dd177e09baf4d3
+
+PODFILE CHECKSUM: b334005134453c5cbcc0cb1e1266dcf0c76a0f46
+
+COCOAPODS: 1.10.1

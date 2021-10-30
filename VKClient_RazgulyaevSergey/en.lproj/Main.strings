@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "1T2-Tq-4GR"; */
+"1T2-Tq-4GR.text" = "Password";
+
+/* Class = "UINavigationItem"; title = "Find New Groups"; ObjectID = "4cJ-Co-PHC"; */
+"4cJ-Co-PHC.title" = "Find New Groups";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "59y-oO-5ah"; */
+"59y-oO-5ah.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "6lc-OJ-7cJ"; */
+"6lc-OJ-7cJ.normalTitle" = "Go";
+
+/* Class = "UILabel"; text = "RSN VK Client"; ObjectID = "94a-08-q34"; */
+"94a-08-q34.text" = "RSN VK Client";
+
+/* Class = "UITextField"; placeholder = "Enter login"; ObjectID = "Au0-qy-Lzq"; */
+"Au0-qy-Lzq.placeholder" = "Enter login";
+
+/* Class = "UITabBarItem"; title = "Friends"; ObjectID = "Axf-E3-9wS"; */
+"Axf-E3-9wS.title" = "Friends";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "GAF-oe-6eO"; */
+"GAF-oe-6eO.placeholder" = "Enter password";
+
+/* Class = "UINavigationItem"; title = "Photos"; ObjectID = "MUb-hi-XSg"; */
+"MUb-hi-XSg.title" = "Photos";
+
+/* Class = "UINavigationItem"; title = "My Groups"; ObjectID = "cXz-35-IJR"; */
+"cXz-35-IJR.title" = "My Groups";
+
+/* Class = "UITabBarItem"; title = "Groups"; ObjectID = "o3a-km-8QT"; */
+"o3a-km-8QT.title" = "Groups";
+
+/* Class = "UINavigationItem"; title = "My Friends"; ObjectID = "rla-h7-GYc"; */
+"rla-h7-GYc.title" = "My Friends";
+
+/* Class = "UINavigationItem"; title = "Login Space"; ObjectID = "sbX-HK-exL"; */
+"sbX-HK-exL.title" = "Login Space";
